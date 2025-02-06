@@ -53,6 +53,8 @@ android {
         versionName flutterVersionName
     }
 
+    namespace "com.sdl.sudoku_starter"
+
     buildTypes {
         release {
             // TODO: Add your own signing config for the release build.
